@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-Es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deuda Técnica</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/deuda-t%C3%A9cnica/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/deuda-t%C3%A9cnica/</guid>
+      <description>Deuda Técnica Esta vez llegamos con un formato muy distinto y con un invitado, Ronny. En este episodio damos un repaso bibliográfico intenso para intentar definir y sentar las bases sobre algunas de las cuestiones más comunes en relación a la Deuda Técnica:
+ ¿Que es la deuda técnica? ¿Como la identificamos? Tipos de deuda técnica Como hacer visible la deuda técnica asumida (Metricas, Trello, …) Consecuencias de tener deuda técnica Donde merece la pena tener deuda técnica  Si te ha gustando este episodio, estate a la espera porque seguiremos profundizando en el tema.</description>
+    </item>
     
     <item>
       <title>Formación y experiencia como programador</title>
