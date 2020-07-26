@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deuda Tecnica en El Dia a Dia</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/deuda-tecnica-en-el-dia-a-dia/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/deuda-tecnica-en-el-dia-a-dia/</guid>
+      <description>Durante los últimos episodios hemos hablado mucho sobre la sostenibilidad de software, primero hablamos sobre la definición más formal de Deuda Técnica y luego entramos en otros matices y formas de ver las cosas respecto al software sostenible hablando de Caring Task y de cómo nos ayuda ese enfoque distinto en el día a día.
+Así que para cerrar este bloque temático presentamos un podcast donde entramos en detalle a bajo nivel de como es nuestro día a dia para gestionar la dualidad de la evolución rápida y el mantenimiento sostenible del software, lo que comúnmente se podría llamar: &amp;ldquo;pagar Deuda Técnica&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Caring Task con Manuel Rivero, Parte 2.</title>
