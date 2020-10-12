@@ -6,6 +6,10 @@
     <description>Recent content in Tags on The Big Branch Theory Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright><atom:link href="https://thebigbranchtheorypodcast.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
+    
+	<atom:link href="https://thebigbranchtheorypodcast.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
