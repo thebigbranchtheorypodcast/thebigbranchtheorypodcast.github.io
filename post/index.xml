@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Minimalismo Digital</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/digital-minimalism/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/digital-minimalism/</guid>
+      <description>Este es nuestro primer podcast desligado del mundo del desarrollo del software, aunque intrísecamente esté relacionado. Queremos hablaros un poco de algo que últimamente a nuestros dos entrevistados (y participantes habituales del podcast) Ronny y Miguel están dedicándose a formarse e intentar practicar. Esto es Minimalismo, pero concretamente Minimalismo Digital.
+Durante este podcast escucháreis que es lo que les ha llevado a aprender sobre este tema, las fuentes de inspiración y que cosas han ido poniendo en práctica de mano del entrevistador que en este caso es nuestro compañero Alfredo.</description>
+    </item>
     
     <item>
       <title>Career Changing Resources</title>
