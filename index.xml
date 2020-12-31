@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Wed, 02 Dec 2020 21:32:08 +0100</lastBuildDate><atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 18:00:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single Responsablity ¿Principle?</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/single-responsablity/</link>
+      <pubDate>Wed, 30 Dec 2020 18:00:12 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/single-responsablity/</guid>
+      <description>Single responsability ¿Principle? En este podcast queremos analizar un poco más en profundidad este famoso principio. Creemos que en ocasiones el principio se entiende de una manera algo superficial y nuestro diseño no está obteniendo el verdadero valor que podría de este principio. Incluso una aplicación del principio entendido de manera superficial podría ser contraproducente en algunos escenarios.
+Si cuando piensas en este principio te surgen dudas como:
+ ¿Es realmente un principio?</description>
+    </item>
+    
     <item>
       <title>Sobre Testing</title>
       <link>https://thebigbranchtheorypodcast.github.io/post/sobre-testing/</link>
