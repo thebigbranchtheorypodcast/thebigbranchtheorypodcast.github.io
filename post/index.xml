@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Developer Experience</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/developer-experience/</link>
+      <pubDate>Wed, 30 Dec 2020 18:00:12 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/developer-experience/</guid>
+      <description>Single responsability ¿Principle? Este episodio hablamos sobre Developer Experience. Una disciplina que se esta poniendo últimamente muy de moda dentro del mundo de desarrollo de software. Queremos contar un poco la experiencia que tenemos en nuestro día a día con ello y nuestras aventuras y desventuras con nuestros aciertos y equivocaciones. Al ser un tema muy génerico y que tiene muchas vertientes dentro de la misma, nos vamos a enfocar sobre la de desarrollo de herramientas y tooling interno dentro de los equipos.</description>
+    </item>
+    
+    <item>
       <title>Single Responsablity ¿Principle?</title>
       <link>https://thebigbranchtheorypodcast.github.io/post/single-responsablity/</link>
       <pubDate>Wed, 30 Dec 2020 18:00:12 +0100</pubDate>
