@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spikes, reduciendo incertidumbre</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/spikes/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/spikes/</guid>
+      <description>Spikes, gestión de incertidumbre ¿Qué es un Spike?
+¿Cómo pueden ayudarnos este tipo de tareas en un contexto de desarrollo de software iterativo e incremental?
+Hablamos un poco de la definición &amp;ldquo;canónica&amp;rdquo; de lo que es para nosotros un buen Spike y damos algunos ejemplos para terminar de aportar contexto de como nos ayuda esta práctica.
+En este episodio participan
+ Miguel Viera Alfredo Casado Juan David Vega  Si quieres dar feedback anónimo, puedes hacerlo aquí</description>
+    </item>
     
     <item>
       <title>Script#1: De Kotlin a Go</title>
