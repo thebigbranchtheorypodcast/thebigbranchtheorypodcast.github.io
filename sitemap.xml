@@ -3,29 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
-    <loc>https://thebigbranchtheorypodcast.github.io/post/ddd/</loc>
-    <lastmod>2021-05-15T00:00:00+01:00</lastmod>
+    <loc>https://thebigbranchtheorypodcast.github.io/post/open-close-principle/</loc>
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebigbranchtheorypodcast.github.io/post/</loc>
-    <lastmod>2021-05-15T00:00:00+01:00</lastmod>
-=======
-    <loc>https://thebigbranchtheorypodcast.github.io/post/</loc>
-    <lastmod>2021-06-15T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebigbranchtheorypodcast.github.io/post/spikes/</loc>
-    <lastmod>2021-06-15T00:00:00+01:00</lastmod>
->>>>>>> 37a4980bdb39aee4c2d9f89b25d0afe01df9435b
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebigbranchtheorypodcast.github.io/</loc>
-<<<<<<< HEAD
-=======
+    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebigbranchtheorypodcast.github.io/post/spikes/</loc>
     <lastmod>2021-06-15T00:00:00+01:00</lastmod>
   </url>
   
@@ -36,7 +29,6 @@
   
   <url>
     <loc>https://thebigbranchtheorypodcast.github.io/post/ddd/</loc>
->>>>>>> 37a4980bdb39aee4c2d9f89b25d0afe01df9435b
     <lastmod>2021-05-15T00:00:00+01:00</lastmod>
   </url>
   
