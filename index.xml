@@ -7,12 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 15 May 2021 00:00:00 +0100</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0100</lastBuildDate>
+>>>>>>> 37a4980bdb39aee4c2d9f89b25d0afe01df9435b
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Spikes, reduciendo incertidumbre</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/spikes/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/spikes/</guid>
+      <description>Spikes, gestión de incertidumbre ¿Qué es un Spike?
+¿Cómo pueden ayudarnos este tipo de tareas en un contexto de desarrollo de software iterativo e incremental?
+Hablamos un poco de la definición &amp;ldquo;canónica&amp;rdquo; de lo que es para nosotros un buen Spike y damos algunos ejemplos para terminar de aportar contexto de como nos ayuda esta práctica.
+En este episodio participan
+ Miguel Viera Alfredo Casado Juan David Vega  Si quieres dar feedback anónimo, puedes hacerlo aquí</description>
+    </item>
+    
+    <item>
+      <title>Script#1: De Kotlin a Go</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/script-kotlin-go/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/script-kotlin-go/</guid>
+      <description>Script#1: De Kotlin a Go Orientación a objetos  Mecanismo para herencia Structs  Interfaces  Vistazo general a las interfaces  Dependecias  Go Modules  Package:  Understanding Package Visibility in Go  Testing:  Sobre el paquete testing incluido en la std lib y su aproximación al testing Mocking con testify y mockery  Inferencia de tipos  Ejemplo ejecutable del Tour de Go  Gorutines  Ejemplo del Tour de Go usando channels  Recursos:  Tour de go Videos de codely Read Go code: https://www.</description>
+    </item>
+    
+    <item>
+>>>>>>> 37a4980bdb39aee4c2d9f89b25d0afe01df9435b
       <title>Introducción a DDD</title>
       <link>https://thebigbranchtheorypodcast.github.io/post/ddd/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0100</pubDate>
