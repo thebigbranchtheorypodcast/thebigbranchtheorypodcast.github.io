@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Charlamos sobre TBD (Trunk-based development)</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/tbd-trunk-based-development/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/tbd-trunk-based-development/</guid>
+      <description>Charlamos sobre TBD (Trunk-based development) En este episodio hacemos una definición rápida de que es TBD, lo que creemos que aporta. Las razona por las que a veces es complicado, algunas ventajas secundarias de usarlo y sobre todo porque en nuestra experiencia, creemos que funciona.
+Referencias  Charla de Rubén y Alfredo sobre TBD Trunk Based Development  Parallel changes Canary release Feature toggles Shadow release Branch by abstraction   Software Configuration Management Patterns: Effective Teamwork, Practical Integration (Software Patterns Series) DORA Research Charla sobre CI de Dave Farley  En este episodio participan</description>
+    </item>
     
     <item>
       <title>Open Closed Principle</title>
