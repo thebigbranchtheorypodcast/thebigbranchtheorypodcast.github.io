@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Esta obra está bajo una Licencia Creative Commons Atribución 4.0 Internacional.</copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://thebigbranchtheorypodcast.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Closed Principle</title>
+      <link>https://thebigbranchtheorypodcast.github.io/post/open-close-principle/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thebigbranchtheorypodcast.github.io/post/open-close-principle/</guid>
+      <description>Para concluir con nuestra segunda temporada de The Big Branch Theory, hemos decidido terminar creando la primera serie del canal, así dejando también un poco de hype para la tercera temporada!
+En este caso continuamos con el segundo principio, o la O de SOLID, el principio OCP o Open Closed. Volvemos a contar con Manuel Rivero @trikitrok y Alfredo Casado @AlfredoCasado y se nos une Fran Reyes@fran_reyes para ofrecer su muy interesante visión sobre este principio, como se entiende a día de hoy y de donde proviene la idea y como con el paso del tiempo y el teléfono roto va perdiendo el mensaje en el que se fundamenta y solo queda la forma.</description>
+    </item>
     
     <item>
       <title>Spikes, reduciendo incertidumbre</title>
@@ -76,12 +86,12 @@ En este episodio participan
     </item>
     
     <item>
-      <title>Single Responsablity ¿Principle?</title>
+      <title>Single Responsibility ¿Principle?</title>
       <link>https://thebigbranchtheorypodcast.github.io/post/single-responsablity/</link>
       <pubDate>Wed, 30 Dec 2020 18:00:12 +0100</pubDate>
       
       <guid>https://thebigbranchtheorypodcast.github.io/post/single-responsablity/</guid>
-      <description>Single responsability ¿Principle? En este podcast queremos analizar un poco más en profundidad este famoso principio. Creemos que en ocasiones el principio se entiende de una manera algo superficial y nuestro diseño no está obteniendo el verdadero valor que podría de este principio. Incluso una aplicación del principio entendido de manera superficial podría ser contraproducente en algunos escenarios.
+      <description>Single Responsibility ¿Principle? En este podcast queremos analizar un poco más en profundidad este famoso principio. Creemos que en ocasiones el principio se entiende de una manera algo superficial y nuestro diseño no está obteniendo el verdadero valor que podría de este principio. Incluso una aplicación del principio entendido de manera superficial podría ser contraproducente en algunos escenarios.
 Si cuando piensas en este principio te surgen dudas como:
  ¿Es realmente un principio?</description>
     </item>
